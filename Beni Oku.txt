@@ -1,0 +1,3 @@
+Telefonda çalıştırmak için Pydroid 3 uygulamasını indir console kısmına
+pip install colorama requests
+yazın sonra kod kısmında olan sms_saldırı.py kodunu çalıştırın
